@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: black;
+}
+.Header{
+  color: aqua;
+  direction: rtl;
+  margin-top: 15px;
+  margin-right: 30px;
+}
+
+.USA{
+margin-top: 100px;
+}
+
+.USA-Box{
+  background-color: rgb(184, 58, 58);
+  background-size:  500;
+  padding-top: 20px;
+  margin-top: 110px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10pt 10px 10px 10px;
+}
+
+.USA-Box .USA-Text{
+  font-size: 20px;
+  font-weight: bolder;
+  direction: rtl;
+  padding-right: 50px;
+ color: rgb(42, 230, 136);
+  text-shadow: 3px 5px rgb(7, 5, 5);
+}
+
+.USA-Box .USA-Sell{
+  font-size: 18px;
+  font-weight:normal;
+  direction: ltr;
+  position: relative;
+  margin: auto;
+  text-indent: 0px 20px;
+  width: 70%;
+ color: rgb(178, 206, 192);
+  text-shadow: 1px 1px rgb(7, 5, 5);
+}
+
+.USA-Box .USA-Buy{
+  font-size: 18px;
+  font-weight:normal;
+  direction: ltr;
+  position: relative;
+  margin: auto;
+  text-indent: 0px 20px;
+  width: 70%;
+ margin-top: 12px;
+  color: rgb(178, 206, 192);
+  text-shadow: 1px 1px rgb(7, 5, 5);
+}
+
+.RUS{
+  margin-top: 100px;
+}
+
+.RUS-Box{
+  background-color: rgb(67, 23, 168);
+  background-size:  500px;
+  padding-top: 20px;
+  margin-top: 110px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 10pt 10px 10px 10px;
+}
+
+.RUS-Box .RUS-Text{
+  font-size: 20px;
+  font-weight: bolder;
+  direction: rtl;
+  padding-right: 50px;
+  color: rgb(226, 190, 218);
+  text-shadow: 3px 5px rgb(7, 5, 5);
+}
+
+.RUS-Box .RUS-Sell{
+  font-size: 18px;
+  font-weight:normal;
+  direction: ltr;
+  position: relative;
+  margin: auto;
+  text-indent: 0px 20px;
+  width: 70%;
+ color: rgb(178, 206, 192);
+  text-shadow: 1px 1px rgb(7, 5, 5);
+}
+
+.RUS-Box .RUS-Buy{
+  font-size: 18px;
+  font-weight:normal;
+  direction: ltr;
+  position: relative;
+  margin: auto;
+  text-indent: 0px 20px;
+  width: 70%;
+ margin-top: 12px;
+  color: rgb(178, 206, 192);
+  text-shadow: 1px 1px rgb(7, 5, 5);
+}
