@@ -36,20 +36,27 @@ function App() {
 
   <div className="INDIA">
     <div className="INDIA-Box">
-      <div className="INDIA-Text">{currency.sana.data[3].updated_at}روپیه هند</div> 
+      <div className="INDIA-Text">{currency.sana.data[3].updated_at}<p>روپیه هند</p></div> 
       <div className="INDIA-Sell"> {currency.sana.data[20].p}:فروش</div>
       <div className="INDIA-Buy"> {currency.sana.data[3].p}:خرید</div>
     </div>
   </div>
 
-  <div className="Coin">
-    <div className="Coin-Box">
-      <div className="Coin-Text">انواع سکه</div> 
-      <div className="Coin-Sell"> :ربع</div>
-      <div className="Coin-Buy"> :نیم</div>
-      <div className="Coin-Buy"> :تمام</div>
+  <div className="ENGLAND">
+    <div className="ENGLAND-Box">
+      <div className="ENGLAND-Text">{currency.sana.data[1].updated_at}<p>یورو انگلیس</p></div> 
+      <div className="ENGLAND-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="ENGLAND-Buy"> {currency.sana.data[1].p}:خرید</div>
     </div>
-   </div>
+  </div>
+
+  <div className="CHINA">
+    <div className="CHINA-Box">
+      <div className="CHINA-Text">{currency.sana.data[6].updated_at}<p>یوان چین</p></div> 
+      <div className="CHINA-Sell"> {currency.sana.data[22].p}:فروش</div>
+      <div className="CHINA-Buy"> {currency.sana.data[6].p}:خرید</div>
+    </div>
+  </div>
   </div>
       ):('')};
 
