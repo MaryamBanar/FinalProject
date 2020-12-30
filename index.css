@@ -405,9 +405,9 @@ margin-top: 100px;
 
     .SOEES{
       margin-top: 100px;
-      }
+   }
       
-      .SOEES-Box{
+   .SOEES-Box{
         background-color: rgb(185, 95, 100);
         background-size:  500;
         direction: rtl;
@@ -416,18 +416,18 @@ margin-top: 100px;
         margin-left: 50px;
         margin-right: 50px;
         border-radius: 10pt 10px 10px 10px;
-      }
+   }
       
-      .SOEES-Box .SOEES-Text{
+   .SOEES-Box .SOEES-Text{
         font-size: 20px;
         font-weight: bolder;
         direction: rtl;
         padding-right: 50px;
        color: rgb(75, 37, 15);
         text-shadow: 2px 2px rgb(7, 5, 5);
-      }
+  }
       
-      .SOEES-Box .SOEES-Sell{
+   .SOEES-Box .SOEES-Sell{
         font-size: 18px;
         font-weight:normal;
         direction: ltr;
@@ -437,9 +437,9 @@ margin-top: 100px;
         width: 70%;
        color: rgb(48, 180, 114);
         text-shadow: 1px 1px rgb(7, 5, 5);
-      }
+  }
       
-      .SOEES-Box .SOEES-Buy{
+   .SOEES-Box .SOEES-Buy{
         font-size: 18px;
         font-weight:normal;
         direction: ltr;
@@ -450,13 +450,13 @@ margin-top: 100px;
        margin-top: 12px;
         color: rgb(41, 150, 95);
         text-shadow: 1px 1px rgb(7, 5, 5);
-      }
+  }
 
-      .SOED{
+   .SOED{
         margin-top: 100px;
-        }
+   }
         
-        .SOED-Box{
+   .SOED-Box{
           background-color: rgb(226, 193, 8);
           background-size:  500;
           direction: rtl;
@@ -465,18 +465,18 @@ margin-top: 100px;
           margin-left: 50px;
           margin-right: 50px;
           border-radius: 10pt 10px 10px 10px;
-        }
+   }
         
-        .SOED-Box .SOED-Text{
+   .SOED-Box .SOED-Text{
           font-size: 20px;
           font-weight: bolder;
           direction: rtl;
           padding-right: 50px;
          color: rgb(75, 37, 15);
           text-shadow: 2px 2px rgb(7, 5, 5);
-        }
+   }
         
-        .SOED-Box .SOED-Sell{
+   .SOED-Box .SOED-Sell{
           font-size: 18px;
           font-weight:normal;
           direction: ltr;
@@ -486,9 +486,9 @@ margin-top: 100px;
           width: 70%;
          color: rgb(48, 180, 114);
           text-shadow: 1px 1px rgb(7, 5, 5);
-        }
+    }
         
-        .SOED-Box .SOED-Buy{
+   .SOED-Box .SOED-Buy{
           font-size: 18px;
           font-weight:normal;
           direction: ltr;
@@ -499,13 +499,13 @@ margin-top: 100px;
          margin-top: 12px;
           color: rgb(41, 150, 95);
           text-shadow: 1px 1px rgb(7, 5, 5);
-        }
+    }
 
-        .JAPEN{
+   .JAPEN{
           margin-top: 100px;
-          }
+    }
           
-          .JAPEN-Box{
+    .JAPEN-Box{
             background-color: rgb(167, 92, 7);
             background-size:  500;
             direction: rtl;
@@ -514,18 +514,18 @@ margin-top: 100px;
             margin-left: 50px;
             margin-right: 50px;
             border-radius: 10pt 10px 10px 10px;
-          }
+   }
           
-          .JAPEN-Box .JAPEN-Text{
+   .JAPEN-Box .JAPEN-Text{
             font-size: 20px;
             font-weight: bolder;
             direction: rtl;
             padding-right: 50px;
            color: rgb(75, 37, 15);
             text-shadow: 2px 2px rgb(7, 5, 5);
-          }
+   }
           
-          .JAPEN-Box .JAPEN-Sell{
+   .JAPEN-Box .JAPEN-Sell{
             font-size: 18px;
             font-weight:normal;
             direction: ltr;
@@ -535,9 +535,9 @@ margin-top: 100px;
             width: 70%;
            color: rgb(48, 180, 114);
             text-shadow: 1px 1px rgb(7, 5, 5);
-          }
+   }
           
-          .JAPEN-Box .JAPEN-Buy{
+   .JAPEN-Box .JAPEN-Buy{
             font-size: 18px;
             font-weight:normal;
             direction: ltr;
@@ -548,13 +548,13 @@ margin-top: 100px;
            margin-top: 12px;
             color: rgb(41, 150, 95);
             text-shadow: 1px 1px rgb(7, 5, 5);
-          }
+   }
 
-          .NORVEZH{
+   .NORVEZH{
             margin-top: 100px;
-            }
+   }
             
-            .NORVEZH-Box{
+   .NORVEZH-Box{
               background-color: rgb(15, 105, 98);
               background-size:  500;
               direction: rtl;
@@ -563,18 +563,18 @@ margin-top: 100px;
               margin-left: 50px;
               margin-right: 50px;
               border-radius: 10pt 10px 10px 10px;
-            }
+   }
             
-            .NORVEZH-Box .NORVEZH-Text{
+   .NORVEZH-Box .NORVEZH-Text{
               font-size: 20px;
               font-weight: bolder;
               direction: rtl;
               padding-right: 50px;
              color: rgb(163, 159, 157);
               text-shadow: 2px 2px rgb(7, 5, 5);
-            }
+   }
             
-            .NORVEZH-Box .NORVEZH-Sell{
+   .NORVEZH-Box .NORVEZH-Sell{
               font-size: 18px;
               font-weight:normal;
               direction: ltr;
@@ -584,9 +584,9 @@ margin-top: 100px;
               width: 70%;
              color: rgb(48, 180, 114);
               text-shadow: 1px 1px rgb(7, 5, 5);
-            }
+   }
             
-            .NORVEZH-Box .NORVEZH-Buy{
+   .NORVEZH-Box .NORVEZH-Buy{
               font-size: 18px;
               font-weight:normal;
               direction: ltr;
@@ -597,13 +597,13 @@ margin-top: 100px;
              margin-top: 12px;
               color: rgb(41, 150, 95);
               text-shadow: 1px 1px rgb(7, 5, 5);
-            }
+   }
 
-            .ARAQ{
+  .ARAQ{
               margin-top: 100px;
-              }
+ }
               
-              .ARAQ-Box{
+  .ARAQ-Box{
                 background-color: rgb(128, 29, 29);
                 background-size:  500;
                 direction: rtl;
@@ -612,18 +612,18 @@ margin-top: 100px;
                 margin-left: 50px;
                 margin-right: 50px;
                 border-radius: 10pt 10px 10px 10px;
-              }
+  }
               
-              .ARAQ-Box .ARAQ-Text{
+  .ARAQ-Box .ARAQ-Text{
                 font-size: 20px;
                 font-weight: bolder;
                 direction: rtl;
                 padding-right: 50px;
                color: rgb(204, 172, 186);
                 text-shadow: 2px 2px rgb(7, 5, 5);
-              }
+ }
               
-              .ARAQ-Box .ARAQ-Sell{
+  .ARAQ-Box .ARAQ-Sell{
                 font-size: 18px;
                 font-weight:normal;
                 direction: ltr;
@@ -633,9 +633,9 @@ margin-top: 100px;
                 width: 70%;
                color: rgb(178, 206, 192);
                 text-shadow: 1px 1px rgb(7, 5, 5);
-              }
+ }
               
-              .ARAQ-Box .ARAQ-Buy{
+  .ARAQ-Box .ARAQ-Buy{
                 font-size: 18px;
                 font-weight:normal;
                 direction: ltr;
@@ -646,13 +646,13 @@ margin-top: 100px;
                margin-top: 12px;
                 color: rgb(178, 206, 192);
                 text-shadow: 1px 1px rgb(7, 5, 5);
-              }
+ }
 
-              .AUS{
+ .AUS{
                 margin-top: 100px;
-                }
+ }
                 
-                .AUS-Box{
+ .AUS-Box{
                   background-color: rgb(255, 187, 1);
                   background-size:  500;
                   direction: rtl;
@@ -661,18 +661,18 @@ margin-top: 100px;
                   margin-left: 50px;
                   margin-right: 50px;
                   border-radius: 10pt 10px 10px 10px;
-                }
+}
                 
-                .AUS-Box .AUS-Text{
+ .AUS-Box .AUS-Text{
                   font-size: 20px;
                   font-weight: bolder;
                   direction: rtl;
                   padding-right: 50px;
                  color: rgb(73, 8, 36);
                   text-shadow: 2px 2px rgb(7, 5, 5);
-                }
+ }
                 
-                .AUS-Box .AUS-Sell{
+ .AUS-Box .AUS-Sell{
                   font-size: 18px;
                   font-weight:normal;
                   direction: ltr;
@@ -682,9 +682,9 @@ margin-top: 100px;
                   width: 70%;
                  color: rgb(178, 206, 192);
                   text-shadow: 1px 1px rgb(7, 5, 5);
-                }
+  }
                 
-                .AUS-Box .AUS-Buy{
+ .AUS-Box .AUS-Buy{
                   font-size: 18px;
                   font-weight:normal;
                   direction: ltr;
@@ -695,13 +695,13 @@ margin-top: 100px;
                  margin-top: 12px;
                   color: rgb(178, 206, 192);
                   text-shadow: 1px 1px rgb(7, 5, 5);
-                }
+ }
             
-                .KANADA{
+ .KANADA{
                   margin-top: 100px;
-                  }
+ }
                   
-                  .KANADA-Box{
+ .KANADA-Box{
                     background-color: rgb(1, 255, 22);
                     background-size:  500;
                     direction: rtl;
@@ -710,18 +710,18 @@ margin-top: 100px;
                     margin-left: 50px;
                     margin-right: 50px;
                     border-radius: 10pt 10px 10px 10px;
-                  }
+  }
                   
-                  .KANADA-Box .KANADA-Text{
+ .KANADA-Box .KANADA-Text{
                     font-size: 20px;
                     font-weight: bolder;
                     direction: rtl;
                     padding-right: 50px;
                    color: rgb(73, 8, 36);
                     text-shadow: 2px 2px rgb(7, 5, 5);
-                  }
+  }
                   
-                  .KANADA-Box .KANADA-Sell{
+ .KANADA-Box .KANADA-Sell{
                     font-size: 18px;
                     font-weight:normal;
                     direction: ltr;
@@ -731,9 +731,9 @@ margin-top: 100px;
                     width: 70%;
                    color: rgb(178, 206, 192);
                     text-shadow: 1px 1px rgb(7, 5, 5);
-                  }
+  }
                   
-                  .KANADA-Box .KANADA-Buy{
+ .KANADA-Box .KANADA-Buy{
                     font-size: 18px;
                     font-weight:normal;
                     direction: ltr;
@@ -744,13 +744,13 @@ margin-top: 100px;
                    margin-top: 12px;
                     color: rgb(178, 206, 192);
                     text-shadow: 1px 1px rgb(7, 5, 5);
-                  }
+  }
 
-                  .YORO{
+ .YORO{
                     margin-top: 100px;
-                    }
+  }
                     
-                    .YORO-Box{
+ .YORO-Box{
                       background-color: rgb(90, 1, 255);
                       background-size:  500;
                       direction: rtl;
@@ -759,18 +759,18 @@ margin-top: 100px;
                       margin-left: 50px;
                       margin-right: 50px;
                       border-radius: 10pt 10px 10px 10px;
-                    }
+  }
                     
-                    .YORO-Box .YORO-Text{
+  .YORO-Box .YORO-Text{
                       font-size: 20px;
                       font-weight: bolder;
                       direction: rtl;
                       padding-right: 50px;
                      color: rgb(73, 8, 36);
                       text-shadow: 2px 2px rgb(7, 5, 5);
-                    }
+   }
                     
-                    .YORO-Box .YORO-Sell{
+   .YORO-Box .YORO-Sell{
                       font-size: 18px;
                       font-weight:normal;
                       direction: ltr;
@@ -780,9 +780,9 @@ margin-top: 100px;
                       width: 70%;
                      color: rgb(178, 206, 192);
                       text-shadow: 1px 1px rgb(7, 5, 5);
-                    }
+  }
                     
-                    .YORO-Box .YORO-Buy{
+   .YORO-Box .YORO-Buy{
                       font-size: 18px;
                       font-weight:normal;
                       direction: ltr;
@@ -793,5 +793,5 @@ margin-top: 100px;
                      margin-top: 12px;
                       color: rgb(178, 206, 192);
                       text-shadow: 1px 1px rgb(7, 5, 5);
-                    }
+   }
               

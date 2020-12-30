@@ -20,7 +20,7 @@ function App() {
       <div className="USA">
         <div className="USA-Box">
           <div className="USA-Text">{currency.sana.data[0].updated_at}<p>دلار آمریکا</p></div> 
-          <div className="USA-Sell"> {currency.sana.data[17].p}:فروش</div>
+          <div className="USA-Sell"> {currency.sana.data[16].p}:فروش</div>
          <div className="USA-Buy"> {currency.sana.data[0].p}:خرید</div>
        </div>
       </div>
@@ -37,7 +37,7 @@ function App() {
   <div className="INDIA">
     <div className="INDIA-Box">
       <div className="INDIA-Text">{currency.sana.data[3].updated_at}<p>روپیه هند</p></div> 
-      <div className="INDIA-Sell"> {currency.sana.data[20].p}:فروش</div>
+      <div className="INDIA-Sell"> {currency.sana.data[19].p}:فروش</div>
       <div className="INDIA-Buy"> {currency.sana.data[3].p}:خرید</div>
     </div>
   </div>
@@ -45,7 +45,7 @@ function App() {
   <div className="ENGLAND">
     <div className="ENGLAND-Box">
       <div className="ENGLAND-Text">{currency.sana.data[11].updated_at}<p>پوند انگلیس</p></div> 
-      <div className="ENGLAND-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="ENGLAND-Sell"> {currency.sana.data[27].p}:فروش</div>
       <div className="ENGLAND-Buy"> {currency.sana.data[11].p}:خرید</div>
     </div>
   </div>
@@ -53,7 +53,7 @@ function App() {
   <div className="YORO">
     <div className="YORO-Box">
       <div className="YORO-Text">{currency.sana.data[11].updated_at}<p>یورو</p></div> 
-      <div className="YORO-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="YORO-Sell"> {currency.sana.data[17].p}:فروش</div>
       <div className="YORO-Buy"> {currency.sana.data[11].p}:خرید</div>
     </div>
   </div>
@@ -69,7 +69,7 @@ function App() {
   <div className="EMARAT">
     <div className="EMARAT-Box">
       <div className="EMARAT-Text">{currency.sana.data[2].updated_at}<p>درهم امارات</p></div> 
-      <div className="EMARAT-Sell"> {currency.sana.data[19].p}:فروش</div>
+      <div className="EMARAT-Sell"> {currency.sana.data[18].p}:فروش</div>
       <div className="EMARAT-Buy"> {currency.sana.data[2].p}:خرید</div>
     </div>
   </div>
@@ -77,7 +77,7 @@ function App() {
   <div className="TURKI">
     <div className="TURKI-Box">
       <div className="TURKI-Text">{currency.sana.data[4].updated_at}<p>لیر ترکیه</p></div> 
-      <div className="TURKI-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="TURKI-Sell"> {currency.sana.data[20].p}:فروش</div>
       <div className="TURKI-Buy"> {currency.sana.data[4].p}:خرید</div>
     </div>
   </div>
@@ -85,7 +85,7 @@ function App() {
   <div className="KORIA">
     <div className="KORIA-Box">
       <div className="KORIA-Text">{currency.sana.data[7].updated_at}<p>وون کره جنوبی</p></div> 
-      <div className="KORIA-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="KORIA-Sell"> {currency.sana.data[23].p}:فروش</div>
       <div className="KORIA-Buy"> {currency.sana.data[7].p}:خرید</div>
     </div>
   </div>
@@ -93,7 +93,7 @@ function App() {
   <div className="SOEES">
     <div className="SOEES-Box">
       <div className="SOEES-Text">{currency.sana.data[8].updated_at}<p>فرانک سوییس</p></div> 
-      <div className="SOEES-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="SOEES-Sell"> {currency.sana.data[24].p}:فروش</div>
       <div className="SOEES-Buy"> {currency.sana.data[8].p}:خرید</div>
     </div>
   </div>
@@ -101,7 +101,7 @@ function App() {
   <div className="SOED">
     <div className="SOED-Box">
       <div className="SOED-Text">{currency.sana.data[12].updated_at}<p>کرون سويد</p></div> 
-      <div className="SOED-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="SOED-Sell"> {currency.sana.data[28].p}:فروش</div>
       <div className="SOED-Buy"> {currency.sana.data[12].p}:خرید</div>
     </div>
   </div>
@@ -109,7 +109,7 @@ function App() {
   <div className="JAPEN">
     <div className="JAPEN-Box">
       <div className="JAPEN-Text">{currency.sana.data[9].updated_at}<p>ین ژاپن</p></div> 
-      <div className="JAPEN-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="JAPEN-Sell"> {currency.sana.data[25].p}:فروش</div>
       <div className="JAPEN-Buy"> {currency.sana.data[9].p}:خرید</div>
     </div>
   </div>
@@ -117,7 +117,7 @@ function App() {
   <div className="NORVEZH">
     <div className="NORVEZH-Box">
       <div className="NORVEZH-Text">{currency.sana.data[13].updated_at}<p>کرون نروژ</p></div> 
-      <div className="NORVEZH-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="NORVEZH-Sell"> {currency.sana.data[29].p}:فروش</div>
       <div className="NORVEZH-Buy"> {currency.sana.data[13].p}:خرید</div>
     </div>
   </div>
@@ -141,10 +141,11 @@ function App() {
   <div className="KANADA">
     <div className="KANADA-Box">
       <div className="KANADA-Text">{currency.sana.data[10].updated_at}<p>دلار کانادا</p></div> 
-      <div className="KANADA-Sell"> {currency.sana.data[18].p}:فروش</div>
+      <div className="KANADA-Sell"> {currency.sana.data[26].p}:فروش</div>
       <div className="KANADA-Buy"> {currency.sana.data[10].p}:خرید</div>
     </div>
   </div>
+  
   </div>
       ):('')};
 
